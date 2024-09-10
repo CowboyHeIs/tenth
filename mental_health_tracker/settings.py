@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "http://heinrich-edric-mht3.pbp.cs.ui.ac.id/"
+    "heinrich-edric-mht3.pbp.cs.ui.ac.id/"
 ]
 
 
